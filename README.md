@@ -31,11 +31,6 @@ A modern full-stack project management application built with React frontend and
 - Node.js (v14 or higher)
 - MongoDB (local installation or MongoDB Atlas account)
 - npm or yarn
-
-
-   
-  
-
 ISC
 
 ## Author
